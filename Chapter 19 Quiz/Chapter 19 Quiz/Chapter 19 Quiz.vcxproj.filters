@@ -18,5 +18,8 @@
     <ClCompile Include="Chapter 19 Quiz.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="part2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

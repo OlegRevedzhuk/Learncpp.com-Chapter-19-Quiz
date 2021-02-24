@@ -20,6 +20,7 @@ public:
 	T second() const { return m_second; }
 };
 
+/*
 int main()
 {
 	Pair1<int> p1(5, 8);
@@ -30,3 +31,4 @@ int main()
 
 	return 0;
 }
+*/
